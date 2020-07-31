@@ -1,6 +1,6 @@
 
 <h1> Petmily </h1>
-Original comPETable. Pet Sitter Matching Service.
+Pet Sitter Matching Service.
 
 <br>
 <br>
